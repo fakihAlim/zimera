@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Pesawat Garuda",
+      "superclasses": "",
+      "subclasses": "",
+      "type": 1,
+      "responsibilities": [
+        "Kode Pesawat",
+        "Tipe Pesawat",
+        "Jumlah Seat",
+        "Umur Pesawat"
+      ],
+      "collaborators": [
+        "pilot",
+        "destinasi",
+        ""
+      ]
+    }
+  ]
