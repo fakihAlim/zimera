@@ -12,8 +12,20 @@
       ],
       "collaborators": [
         "pilot",
-        "destinasi",
         ""
+      ]
+    },
+    {
+      "name": "pilot",
+      "superclasses": "",
+      "subclasses": "",
+      "type": 1,
+      "responsibilities": [
+        "nama pilot",
+        "jam terbang"
+      ],
+      "collaborators": [
+        "pesawat garuda"
       ]
     }
   ]
