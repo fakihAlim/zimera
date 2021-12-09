@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<pesawat>
+    <maskapai name="Garuda">
+        <manufaktur>Boing</manufaktur>
+        <tahun>2018</tahun>
+    </maskapai>
+    <maskapai name="Merpati">
+        <manufaktur>Airbus</manufaktur>
+        <tahun>2008</tahun>
+    </maskapai>
+    <maskapai name="Lion">
+        <manufaktur>Foker</manufaktur>
+        <tahun>2021</tahun>
+    </maskapai>
+</pesawat>

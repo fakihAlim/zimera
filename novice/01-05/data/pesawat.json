@@ -1,0 +1,21 @@
+{
+	"pesawat": {
+		"maskapai": [
+			{
+				"manufaktur": "Boing",
+				"tahun": "2008",
+				"_name": "Garuda"
+			},
+			{
+				"manufaktur": "Boing",
+				"tahun": "2008",
+				"_name": "Garuda"
+			},
+			{
+				"manufaktur": "Boing",
+				"tahun": "2008",
+				"_name": "Garuda"
+			}
+		]
+	}
+}
