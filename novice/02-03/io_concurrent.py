@@ -20,14 +20,14 @@ def download_site(url):
 
 
 def download_all_sites(sites):
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
         executor.map(download_site, sites)
 
 
 if __name__ == "__main__":
     sites = [
-        "https://www.jython.org",
-        "http://olympus.realpython.org/dice",
+        "http://yodi.my.id",
+        "http://elearning.uvers.ac.id",
     ] * 80
     start_time = time.time()
     download_all_sites(sites)
