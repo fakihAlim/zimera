@@ -1,4 +1,4 @@
-from dependency_injector import providers, containers
+from dependency_injector import containers, providers
 from email_client import EmailClient
 from email_reader import EmailReader
 
