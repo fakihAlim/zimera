@@ -7,6 +7,7 @@ class TestClass:
         x = "hello"
         assert hasattr(x, "check")
 
+
 # --- HASILNYA ---
 
 # (py39-nlp) C:\Users\DeLL\My Documents\github\zimera\novice\02-02\pytest>pytest -q test_class.py

@@ -1,5 +1,6 @@
 import asyncio
 
+
 async def factorial(name, number):
     f = 1
     for i in range(2, number + 1):
@@ -9,6 +10,7 @@ async def factorial(name, number):
     print(f"Task {name}: factorial({number}) = {f}")
     return f
 
+
 async def main():
     # Schedule three calls *concurrently*:
     L = await asyncio.gather(
@@ -17,5 +19,6 @@ async def main():
         factorial("C", 4),
     )
     print(L)
+
 
 asyncio.run(main())

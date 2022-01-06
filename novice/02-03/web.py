@@ -1,9 +1,10 @@
 import requests
+
 # from bs4 import BeautifulSoup
 
 
 # Making a GET request
-r = requests.get('http://yodi.my.id')
+r = requests.get("http://yodi.my.id")
 
 # check status code for response received
 # success code - 200

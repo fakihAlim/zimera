@@ -6,6 +6,7 @@ class TestClassDemoInstance:
     def test_two(self):
         assert 0
 
+
 # --- HASILNYA ---
 
 # (py39-nlp) C:\Users\DeLL\My Documents\github\zimera\novice\02-02\pytest>pytest -k TestClassDemoInstance -q

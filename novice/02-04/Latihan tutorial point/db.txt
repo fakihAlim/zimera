@@ -1,0 +1,21 @@
+{
+	"pesawat": {
+		"maskapai": [
+			{
+				"firs_name": "Boing",
+				"last_name": "2008",
+				"_name": "Garuda"
+			},
+			{
+				"firs_name": "Boing",
+				"last_name": "2008",
+				"_name": "Garuda"
+			},
+			{
+				"firs_name": "Boing",
+				"last_name": "2008",
+				"_name": "Garuda"
+			}
+		]
+	}
+}

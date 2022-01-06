@@ -12,6 +12,7 @@ def download_all_sites(sites):
         for url in sites:
             download_site(url, session)
 
+
 if __name__ == "__main__":
     sites = [
         "http://yodi.my.id",
